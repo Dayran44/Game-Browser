@@ -10,8 +10,9 @@
     padding-right: 400px;
 }
 
-#menu{
-
+#menu li a:link{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 
 #menu_top ul {

@@ -16,6 +16,11 @@
 
 #menu_top ul {
     margin: 1px;
+    text-align: right;
+}
+
+#menu a {
+    text-decoration: none;
 }
 
 #menu li {

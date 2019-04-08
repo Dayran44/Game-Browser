@@ -1,0 +1,30 @@
+#geral {
+    background-image: url(../img/background.jpg);
+    padding-bottom: 52px;
+}
+
+#menu_top {
+    border: solid 2px rgba(204, 204, 204, 0.397);
+    background: rgba(211, 209, 209, 0.39);
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+#menu {
+    
+}
+
+#menu li {
+    display: inline;
+}
+
+#form {
+    width: 250px;
+    background: rgba(204, 204, 204, 0.288);
+}
+
+#login {
+    margin:200px auto;
+    width: 250px;
+    border:solid 2px rgba(204, 204, 204, 0.658);
+}

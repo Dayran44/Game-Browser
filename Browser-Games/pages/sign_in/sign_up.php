@@ -2,8 +2,8 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf8">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="../../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../../css/normalize.css">
     <script src=""></script>
     <title>TESVS Game</title>
 </head>
@@ -16,7 +16,7 @@
                 <li><a href="#">Ranking</a></li>
                 <li><a href="#">Fórun</a></li>
                 <li><a href="#">About</a></li>
-                <li><a href="#">Sign up</a></li>
+                <li><a href="../../index.php">Sign in</a></li>
             </ul>
         </nav>
     </div>
@@ -26,7 +26,7 @@
         <input type="text" name="Email" />
         <label for="Password">Password</label>
         <input type="password" name="Password" />
-        <input type="submit" value="Login" />
+        <input type="submit" value="submit" />
         </form>
     </div>
 </div>

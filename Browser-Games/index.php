@@ -16,7 +16,7 @@
                 <li><a href="#">Ranking</a></li>
                 <li><a href="#">Fórun</a></li>
                 <li><a href="#">About</a></li>
-                <li><a href="pages/sing in/sign_up.html">Sign up</a></li>
+                <li><a href="pages/sing in/sign_up.php">Sign up</a></li>
             </ul>
         </nav>
     </div>

@@ -8,7 +8,7 @@
     <title>TESVS Game</title>
 </head>
 <body>
-<div id="geral">
+<div id="geral_game">
     <div id="menu_top">
         <nav>
             <ul id="menu">
@@ -19,6 +19,9 @@
     </div>
     <div id="panel_top">
         <p>Dados do Personagem</p>
+            <div class="avatar">
+
+            </div>
     </div>
     <div id="panel_battle">
         <p>Campo de Batalha</p>

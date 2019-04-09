@@ -51,10 +51,20 @@
     border:solid 2px rgba(204, 204, 204, 0.658);
 }
 
+#geral_game {
+    background-image: url(../img/battle.jpg);
+    padding-bottom: 100px;
+}
+
 #panel_top {
     background-color: rgba(204, 204, 204, 0.473);
     height: 130px;
     text-align: right;
     padding-right: 50px;
     margin-left: 800px;
+}
+
+#panel_battle {
+    background-color: rgba(204, 204, 204, 0.473);
+    height: 200px; 
 }
